@@ -1,0 +1,17 @@
+{
+  "name": "mr-gpc/php-lib-gpc",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "david",
+      "email": "381112334@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "php-lib-gpc\\": ""
+    }
+  }
+}
